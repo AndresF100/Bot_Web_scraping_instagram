@@ -1,2 +1,2 @@
-user =  "andresforerortiz100@hotmail.com"
-password ="Tenedor123"
+user =  # insert an email
+password = # insert a password
